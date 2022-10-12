@@ -1,0 +1,9 @@
+[
+  {
+    "artifactId": "core",
+    "excludes": [],
+    "groupId": "com.pierfrancescosoffritti.androidyoutubeplayer",
+    "scope": "compile",
+    "versionName": "11.1.0"
+  }
+]
